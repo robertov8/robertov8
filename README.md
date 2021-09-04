@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+<p align="center">
+<a href="https://github.com/robertov8">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=robertov8&theme=dark&count_private=true&show_icons=true&title_color=6e40c9&icon_color=6e40c9&line_height=20"/>
+</a>
+</p>
+
 <!--
 **robertov8/robertov8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
